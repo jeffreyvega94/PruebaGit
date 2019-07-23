@@ -7,7 +7,6 @@
     <title>Document</title>
 </head>
 <body>
-    <p>Este es un cambios</p>
     
     <p>Este es el ssegundo cambio</p>
 
